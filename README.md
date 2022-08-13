@@ -3,7 +3,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/0xSanyam/hardhat-erc20
+git clone https://github.com/0xSanyam/hardhat-erc20.git
 cd hardhat-erc20
 yarn
 ```
